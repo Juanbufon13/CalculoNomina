@@ -1,0 +1,7 @@
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\bin\Debug\CalculodeNominaJL.exe.config
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\bin\Debug\CalculodeNominaJL.exe
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\bin\Debug\CalculodeNominaJL.pdb
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\obj\Debug\CalculodeNominaJL.csprojAssemblyReference.cache
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\obj\Debug\CalculodeNominaJL.csproj.CoreCompileInputs.cache
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\obj\Debug\CalculodeNominaJL.exe
+C:\Users\junio\OneDrive\Escritorio\proyecto 1\CalculodeNominaJL\CalculodeNominaJL\obj\Debug\CalculodeNominaJL.pdb
